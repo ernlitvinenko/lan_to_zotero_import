@@ -36,7 +36,7 @@ sudo chmod +x main.py
 
 ### Пример
 ```bash
-/main.py add -l https://e.lanbook.com/book/439523
+./main.py add -l https://e.lanbook.com/book/439523
 ```
 Добавится книга: "Программирование на языке C#: учебное пособие"
 
